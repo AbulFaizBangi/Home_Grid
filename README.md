@@ -38,4 +38,6 @@ The application consists of two main activities:
 
 - **TOAST MESSAGE**:   ![s4](https://github.com/AbulFaizBangi/Home_Grid/assets/140591784/ad3d3b5f-fe68-4572-9ac9-867a51eff964)
 
+- **CONCEPT FLOW DIAGRAM**: ![WhatsApp Image 2024-03-11 at 22 47 05](https://github.com/AbulFaizBangi/Home_Grid/assets/140591784/59b22953-870f-4b6d-adfd-fe31c0332c93)
+
 
